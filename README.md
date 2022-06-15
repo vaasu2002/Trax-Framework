@@ -1,1 +1,2 @@
 # Trax Framework
+**Trax** framework is much more concise than TensorFlow and PyTorch. It runs on a TensorFlow backend but allows US to train models with one line commands. Trax also runs end to end, allowing you to get data, model and train all with a single terse statements. Trax is good for implementing new state of the art algorithms like Transformers, Reformers, BERT because it is actively maintained by Google Brain Team for advanced deep learning tasks. It runs smoothly on CPUs,GPUs and TPUs as well with comparatively lesser modifications in code.
