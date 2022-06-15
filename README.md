@@ -1,1 +1,1 @@
-# Trax-Framework
+# Trax Framework
